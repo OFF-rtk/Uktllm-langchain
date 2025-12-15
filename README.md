@@ -1,3 +1,5 @@
+### BEFORE ALL OF THE STEPS BELOW MAKE SURE YOU ARE A CONTRIBUTOR
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
